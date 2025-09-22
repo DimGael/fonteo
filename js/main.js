@@ -127,7 +127,7 @@
         items: 1
     });
     
-    // Back to top button
+    // Back to top button && scroll to contact
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
             $('.back-to-top').fadeIn('slow');
@@ -135,6 +135,12 @@
             $('.back-to-top').fadeOut('slow');
         }
     });
+
+    $('.price-btn').click(function () {
+        $("html, body").animate({ scrollTop: $('.contact').offset().top - $('header').height() }, 0);
+        return false;
+    });
+
     $('.back-to-top').click(function () {
         $('html, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
         return false;

@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color: #1dbf73;
+    color: #1d71bf;
     transition: 0.3s;
 }
 
@@ -48,7 +48,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #1dbf73;
+    background: #1d71bf;
     color: #ffffff;
     width: 45px;
     height: 45px;
@@ -229,7 +229,7 @@ h6 {
     display: inline-block;
     padding: 10px 30px;
     transition: 0.3s;
-    background: #1dbf73;
+    background: #1d71bf;
     color: #ffffff;
     font-family: 'Nunito', sans-serif;
     font-weight: 700;
@@ -240,7 +240,7 @@ h6 {
 
 .slider .btn-get-started:hover {
     background: #ffffff;
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 
@@ -303,7 +303,7 @@ h6 {
 
 .nav-menu li:hover > a,
 .nav-menu > .menu-active > a {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .nav-menu > li {
@@ -331,7 +331,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .nav-menu ul ul {
@@ -394,7 +394,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 #mobile-nav ul li li {
@@ -402,7 +402,7 @@ h6 {
 }
 
 #mobile-nav ul li.menu-active a {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 #mobile-nav ul .menu-has-children i {
@@ -416,7 +416,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.ion-md-arrow-dropup {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 #mobile-nav ul .menu-has-children i.dicon {
@@ -428,7 +428,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-item-active {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 #mobile-body-overly {
@@ -495,7 +495,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .banner .banner-box a:hover {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .banner .banner-box a:first-child {
@@ -571,7 +571,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding-left: 1px;
     text-align: center;
     position: absolute;
-    background-color: #1dbf73;
+    background-color: #1d71bf;
     border-radius: 50%;
     text-align: center;
     border: 4px solid #ffffff;
@@ -592,7 +592,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about .about-col:hover i {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .about .about-col h2 {
@@ -609,7 +609,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about .about-col h2 a:hover {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .about .about-col p {
@@ -634,7 +634,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     transition: 0.3s;
     margin: 15px 30px 30px 30px;
     color: #ffffff;
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .about .about-col:hover .read-more a,
@@ -675,7 +675,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .single-service i {
     font-size: 64px;
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .single-service h4,
@@ -696,7 +696,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .call-to-action {
     position: relative;
     padding: 60px 0;
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .call-to-action .container {
@@ -720,7 +720,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline-block;
     margin-top: 10px;
     padding: 8px 28px;
-    color: #1dbf73;
+    color: #1d71bf;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 1px;
@@ -803,7 +803,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .pricing .price-details li i.ion-md-checkmark {
-    color: #1dbf73;
+    color: #1d71bf;
     margin-right: 5px;
 }
 
@@ -828,11 +828,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .pricing .price-btn:hover {
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .pricing .features-price-btn {
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .pricing .features-price-btn:hover {
@@ -844,7 +844,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .pricing .features-price .price-plan {
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .pricing .features-price .price-plan p{
@@ -907,7 +907,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 30px 0 0 0;
     font-size: 60px;
     display: block;
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .skills .counters p {
@@ -949,7 +949,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-    background: #1dbf73;
+    background: #1d71bf;
     color: #ffffff;
 }
 
@@ -999,7 +999,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: center;
     width: 60px;
     height: 36px;
-    background: #1dbf73;
+    background: #1d71bf;
     border-radius: 20px;
     transition: 0.3s;
     opacity: 0;
@@ -1102,7 +1102,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-    background: #1dbf73;
+    background: #1d71bf;
 }
 
 .team .card-title-wrap .card-title,
@@ -1206,7 +1206,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .testimonials .owl-dot.active {
-    background-color: #1dbf73;
+    background-color: #1d71bf;
 }
 
 @media (max-width: 575px) {
@@ -1252,7 +1252,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .clients .owl-dot.active {
-    background-color: #1dbf73;
+    background-color: #1d71bf;
 }
 
 
@@ -1290,7 +1290,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .contact .contact-info i {
     font-size: 48px;
     display: inline-block;
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .contact .contact-info address,
@@ -1312,7 +1312,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .contact .contact-info a:hover {
-    color: #1dbf73;
+    color: #1d71bf;
 }
 
 .contact .map {
@@ -1350,11 +1350,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .contact .form input:focus,
 .contact .form textarea:focus {
-    border-color: #1dbf73;
+    border-color: #1d71bf;
 }
 
 .contact .form button[type="submit"] {
-    background: #1dbf73;
+    background: #1d71bf;
     border: 0;
     padding: 10px 30px;
     color: #ffffff;
@@ -1375,7 +1375,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer .footer-top {
-    background: #1dbf73;
+    background: #1d71bf;
     padding: 60px 0 30px 0;
 }
 
@@ -1403,7 +1403,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 18px;
     display: inline-block;
     background: #ffffff;
-    color: #1dbf73;
+    color: #1d71bf;
     line-height: 1;
     padding: 9px 0;
     margin-right: 4px;
