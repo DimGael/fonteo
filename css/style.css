@@ -621,8 +621,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     padding: 0 30px;
 }
 
-.about .read-more {
+.about {
     width: 100%;
+    text-align: center;
+}
+
+.read-more {
     text-align: center;
 }
 
@@ -643,7 +647,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #ffffff;
 }
 
-.about .about-row .read-more {
+.about .about-row {
     text-align: left;
 }
 
